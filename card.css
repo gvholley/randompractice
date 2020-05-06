@@ -1,0 +1,38 @@
+.card-category {
+  height: 400px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 0 0 16px rgba(0,0,0,0.2);
+  border-radius: 4px;
+}
+
+.card-product {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.3);
+}
+
+.card-product img {
+  height: 120px;
+  margin-right: 16px;
+}
+
+.card-product h2 {
+  margin: 0;
+}
+
+.card-product p {
+  margin: 0;
+}
+
+.card-trip {
+  background-color: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.3);
+}
+
+
+
+
